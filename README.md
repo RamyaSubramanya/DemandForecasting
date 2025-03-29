@@ -1,13 +1,13 @@
 <!-- This dataset provides synthetic yet realistic data for analyzing and forecasting retail store inventory demand. It contains over 73000 rows of daily data across multiple stores and products, including attributes like sales, inventory levels, pricing, weather, promotions, and holidays.
 
 
-Challenge 1: Time Series Demand Forecasting
+Challenge 1: Time Series Demand Forecasting (Completed, check demand_forecasting.ipynb)
 Predict daily product demand across stores using historical sales and inventory data. 
 
-Challenge 2: Inventory Optimization
+Challenge 2: Inventory Optimization (Completed, check demand_forecasting.ipynb)
 Optimize inventory levels by analyzing sales trends and minimizing stockouts while reducing overstock situations.
 
-Challenge 3: Dynamic Pricing
+Challenge 3: Dynamic Pricing (not completed)
 Develop a pricing strategy based on demand, competitor pricing, and discounts to maximize revenue.
 
 Key Data Features:
